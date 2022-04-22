@@ -1,0 +1,18 @@
+{
+  "name": "Orders From Above",
+  "version": "0.1.0",
+  "namespace": "org.sykloid.orders_from_above",
+  "package": "Orders From Above.dll",
+  "manifest_version": 1,
+
+  "description": "Blish-HUD module for creating, managing and using squad orders.",
+  "dependencies": {
+    "bh.blishhud": ">=0.5.2"
+  },
+  "url": "https://github.com/sykora/orders-from-above",
+  "contributors": [
+    {
+      "name": "sykloid"
+    }
+  ]
+}
