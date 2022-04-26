@@ -11,8 +11,9 @@
   },
   "url": "https://github.com/sykora/orders-from-above",
   "contributors": [
-    {
-      "name": "sykloid"
-    }
-  ]
+      {
+          "name": "sykloid"
+      }
+  ],
+  "directories": [ "orders" ]
 }
